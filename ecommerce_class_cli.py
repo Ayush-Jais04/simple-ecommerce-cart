@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# ecommerce_class_cli.py
-# Simple CLI e-commerce demo using classes and object methods.
-# Beginner friendly — only basic Python: classes, dicts, loops, input, print.
-
 class ProductCatalog:
     def __init__(self):
         # product_id -> (name, price)
