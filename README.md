@@ -17,8 +17,3 @@
 - Displays the total before checkout  
 - Asks for confirmation  
 - Clears cart after successful checkout  
-
----
-
-## 📂 Project Structure
-
